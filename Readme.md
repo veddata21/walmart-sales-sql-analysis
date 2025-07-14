@@ -24,4 +24,4 @@ Analyze Walmart-style sales data using advanced SQL techniques like CTEs, Window
 ## 👨‍💼 Author
 **Vedant Mali**  
 Aspiring Business Analyst | SQL | Excel | Power BI  
-🔗 [GitHub](https://github.com/vedantmali)
+🔗 [GitHub](https://github.com/veddata21)

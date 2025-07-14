@@ -25,7 +25,7 @@ Analyze Walmart-style sales data using advanced SQL techniques like CTEs, Window
 
 ### 🔹 Download Dashboard Files
 - [View PDF Dashboard](./docs/Walmart_sales_dashboard.pdf)
-- [Download PBIT Template](.docs/Walmart_sales_dashboard.pbit)
+- [Download PBIT Template](./docs/Walmart_sales_dashboard.pbit)
 
 ### 📊 Features Visualized:
 - Revenue by city, age, and gender

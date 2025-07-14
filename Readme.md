@@ -1,27 +1,27 @@
 # 🛒 Walmart Sales & Customer Behavior Analysis (SQL Project)
 
+# 🛒 Walmart SQL Business Analyst Project
+
 ## 📌 Objective
-Analyze multi-city sales data from a Walmart-style retailer to generate actionable customer and business insights using advanced SQL techniques.
+Analyze Walmart-style sales data using advanced SQL techniques like CTEs, Window Functions, Aggregations, and CASE statements to draw actionable business insights.
 
-## 🧰 Tools Used
-- MySQL (Workbench)
-- SQL (CTEs, Window Functions)
-- GitHub
-- Excel (Optional)
+## 📁 Folders
+- `/queries`: SQL scripts (exploration, segmentation, rankings)
+- `/docs`: Executive Summary
+- `/dataset`: (Optional, cleaned CSV)
 
-## 🔍 Key Insights
-- 🧓 Mid-age customers (36–50) have the highest spend
-- 💰 Top 5 customers spend 3x more than average
-- 🏙️ City B leads in volume; City C in avg spend
-- 🔁 Repeat users identified using ROW_NUMBER()
+## 🧠 Key SQL Concepts Used
+- `WITH` Common Table Expressions
+- `RANK()`, `ROW_NUMBER()`, `SUM() OVER`
+- `CASE` Segmentation
+- Aggregation, Sorting, Filtering
 
-## 🧠 SQL Techniques Used
-- CTEs (`WITH`)
-- Window Functions: `RANK()`, `ROW_NUMBER()`, `SUM() OVER`)
-- CASE statements
-- Segment & sales analysis
+## 🔍 Sample Insights
+- Top 5 customers spent 3× more than avg
+- Mid-age users (36–50) are most profitable
+- City B has the highest total sales
 
 ## 👨‍💼 Author
 **Vedant Mali**  
-Aspiring Business Analyst | SQL | Excel | Power BI | Python  
-🔗 [GitHub Profile](https://github.com/veddata21)
+Aspiring Business Analyst | SQL | Excel | Power BI  
+🔗 [GitHub](https://github.com/vedantmali)

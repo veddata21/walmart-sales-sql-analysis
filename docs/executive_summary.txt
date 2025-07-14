@@ -1,0 +1,10 @@
+This project analyzes customer purchase behavior across three cities for a Walmart-style retail chain.
+
+- Total Transactions: 10,000+
+- Unique Customers: 5,000+
+- Age groups 36–50 contributed the highest revenue.
+- City B generated the most sales volume.
+- Top 5 users spent 3x more than average.
+- Repeat buyers identified using ROW_NUMBER()
+
+SQL skills demonstrated: CTEs, Window Functions, Aggregations, Segmentation.

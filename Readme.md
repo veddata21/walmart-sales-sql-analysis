@@ -21,6 +21,7 @@ Analyze Walmart-style sales data using advanced SQL techniques like CTEs, Window
 - Mid-age users (36–50) are most profitable
 - City B has the highest total sales
 
+
 ## 👨‍💼 Author
 **Vedant Mali**  
 Aspiring Business Analyst | SQL | Excel | Power BI  

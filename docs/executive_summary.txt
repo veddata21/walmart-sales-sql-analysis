@@ -1,10 +1,33 @@
-This project analyzes customer purchase behavior across three cities for a Walmart-style retail chain.
+📝 Executive Summary
 
-- Total Transactions: 10,000+
-- Unique Customers: 5,000+
-- Age groups 36–50 contributed the highest revenue.
-- City B generated the most sales volume.
-- Top 5 users spent 3x more than average.
-- Repeat buyers identified using ROW_NUMBER()
+This project presents a structured analysis of retail customer data from a Walmart-style multi-city retail chain using advanced SQL techniques. The goal was to extract actionable business insights to support strategic decision-making for marketing, operations, and customer engagement.
 
-SQL skills demonstrated: CTEs, Window Functions, Aggregations, Segmentation.
+🔍 Key Objectives:
+- Identify top customers and high-revenue age segments  
+- Segment customer behavior by age, gender, and city  
+- Measure repeat purchases and loyalty indicators  
+- Use SQL CTEs and window functions to answer business questions
+
+📊 Dataset Overview:
+- Total transactions analyzed: 10,000+  
+- Unique customers: 5,000+  
+- Cities: 3 (A, B, C)  
+- Columns: Age, Gender, City Category, Purchase Amount, Product Category
+
+💡 Business Insights:
+- Age groups **36–50** contributed the **highest revenue** overall  
+- **Top 5 customers** spent nearly **3x more than the average customer**  
+- **City B** had the highest total orders; **City C** had the highest average order value  
+- **Male customers** placed more orders, but **spending patterns were similar** across genders  
+- Several users were identified as **repeat buyers (3+ orders)** using `ROW_NUMBER()`  
+- Advanced SQL techniques such as `CTEs`, `RANK()`, `SUM OVER`, and `CASE` were used to segment and interpret data
+
+🧠 Skills Demonstrated:
+- Structured data analysis using **MySQL**
+- Business segmentation logic using **CASE WHEN**
+- KPI derivation using **window functions**
+- Clean code commenting and query documentation
+- GitHub-based project organization
+
+📦 Project Outcome:
+This project delivers a complete SQL-based business analysis portfolio piece demonstrating real-world skills relevant to Business Analyst roles at MNCs, consulting firms, and data-driven startups.

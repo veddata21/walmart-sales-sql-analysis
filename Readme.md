@@ -21,6 +21,17 @@ Analyze Walmart-style sales data using advanced SQL techniques like CTEs, Window
 - Mid-age users (36–50) are most profitable
 - City B has the highest total sales
 
+## 📈 Power BI Dashboard
+
+### 🔹 Download Dashboard Files
+- [View PDF Dashboard](./docs/Walmart_sales_dashboard.pdf)
+- [Download PBIT Template](.docs/Walmart_sales_dashboard.pbit)
+
+### 📊 Features Visualized:
+- Revenue by city, age, and gender
+- Product category performance
+- Repeat buyer analysis
+- Interactive slicers by gender, city, and age
 
 ## 👨‍💼 Author
 **Vedant Mali**  
